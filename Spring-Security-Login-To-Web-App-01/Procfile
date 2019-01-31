@@ -1,0 +1,1 @@
+web: java -jar target/Spring-Security-Login-To-Web-App-01-1.0.jar
